@@ -1,2 +1,1 @@
-＃UIAssistantTools
-UGUI检测合批工具，在编辑器下
+UGUI编辑器下检测合批工具
